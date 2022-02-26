@@ -1,0 +1,7 @@
+{
+  "parent": "all_out_power:custom/holy_axe",
+  "textures": {
+    "1": "all_out_power:blocks/holy_axe",
+    "particle": "all_out_power:items/holy_axe"
+  }
+}
