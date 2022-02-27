@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "chest_block_top",
+        "left": "chest_block_left",
+        "bottom": "chest_block_bottom",
+        "back": "chest_block_back",
+        "lock": "chest_block_lock",
+        "front": "chest_block_front",
+        "right": "chest_block_right"
+      },
+      "name": "default"
+    }
+  }
+}

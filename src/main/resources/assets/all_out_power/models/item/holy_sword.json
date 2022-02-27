@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "all_out_power:items/holy_sword"
+  }
+}

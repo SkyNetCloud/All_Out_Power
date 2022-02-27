@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "all_out_power:blocks/pink_coral_mapl_trees_planks",
+    "particle": "all_out_power:blocks/pink_coral_mapl_trees_planks"
+  }
+}

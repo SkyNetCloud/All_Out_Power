@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "all_out_power:blocks/pink_coral_mapl_trees_leaves",
+    "particle": "all_out_power:blocks/pink_coral_mapl_trees_leaves"
+  }
+}

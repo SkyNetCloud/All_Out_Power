@@ -1,0 +1,14 @@
+{
+  "parent": "all_out_power:custom/chest_block",
+  "textures": {
+    "all": "all_out_power:blocks/chest_block_bottom",
+    "particle": "all_out_power:blocks/chest_block_bottom",
+    "top": "all_out_power:blocks/chest_block_top",
+    "left": "all_out_power:blocks/chest_block_left",
+    "bottom": "all_out_power:blocks/chest_block_bottom",
+    "back": "all_out_power:blocks/chest_block_back",
+    "lock": "all_out_power:blocks/chest_block_lock",
+    "front": "all_out_power:blocks/chest_block_front",
+    "right": "all_out_power:blocks/chest_block_right"
+  }
+}

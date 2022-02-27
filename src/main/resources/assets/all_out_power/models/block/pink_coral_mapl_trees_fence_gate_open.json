@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "texture": "all_out_power:blocks/pink_coral_mapl_trees_planks"
+  }
+}

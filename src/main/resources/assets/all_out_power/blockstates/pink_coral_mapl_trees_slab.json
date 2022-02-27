@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "all_out_power:block/pink_coral_mapl_trees_slab"
+    },
+    "type=top": {
+      "model": "all_out_power:block/pink_coral_mapl_trees_slab_top"
+    },
+    "type=double": {
+      "model": "all_out_power:block/pink_coral_mapl_trees_slab_full"
+    }
+  }
+}

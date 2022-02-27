@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "all_out_power:blocks/pink_coral_mapl_trees_planks"
+  }
+}

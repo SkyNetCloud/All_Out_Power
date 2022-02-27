@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "all_out_power:block/pink_coral_mapl_trees_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "all_out_power:block/pink_coral_mapl_trees_log"
+    },
+    "axis=z": {
+      "model": "all_out_power:block/pink_coral_mapl_trees_log",
+      "x": 90
+    }
+  }
+}

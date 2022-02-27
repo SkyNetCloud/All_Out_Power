@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "all_out_power:pink_coral_mapl_trees_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "all_out_power:pink_coral_mapl_trees_planks"
+    },
+    "3": {
+      "item": "all_out_power:pink_coral_mapl_trees_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "all_out_power:pink_coral_mapl_trees_planks"
+    }
+  },
+  "result": {
+    "item": "all_out_power:pink_coral_mapl_trees_fence",
+    "count": 3
+  }
+}

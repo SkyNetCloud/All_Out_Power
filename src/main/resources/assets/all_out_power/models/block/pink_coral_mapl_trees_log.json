@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_out_power:blocks/pink_coral_mapl_trees_log_top",
+    "up": "all_out_power:blocks/pink_coral_mapl_trees_log_top",
+    "north": "all_out_power:blocks/pink_coral_mapl_trees_log_side",
+    "east": "all_out_power:blocks/pink_coral_mapl_trees_log_side",
+    "south": "all_out_power:blocks/pink_coral_mapl_trees_log_side",
+    "west": "all_out_power:blocks/pink_coral_mapl_trees_log_side",
+    "particle": "all_out_power:blocks/pink_coral_mapl_trees_log_top"
+  }
+}

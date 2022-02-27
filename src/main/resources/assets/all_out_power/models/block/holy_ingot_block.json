@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "all_out_power:blocks/holy_ingot_ore_block",
+    "particle": "all_out_power:blocks/holy_ingot_ore_block"
+  }
+}

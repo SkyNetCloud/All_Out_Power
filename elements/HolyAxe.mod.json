@@ -11,17 +11,24 @@
       "value": "TOOLS"
     },
     "toolType": "Axe",
-    "harvestLevel": 1,
-    "efficiency": 4.0,
+    "harvestLevel": 2,
+    "efficiency": 6.0,
     "attackSpeed": 1.0,
-    "enchantability": 2,
-    "damageVsEntity": 4.0,
-    "usageCount": 100,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 250,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:Holy_IngotIngot"
+      }
+    ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "ToolCalling"
+    }
   }
 }
